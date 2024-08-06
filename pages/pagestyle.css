@@ -1,0 +1,145 @@
+* {
+    text-decoration: none;
+}
+
+.elements {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.return {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    top: 30px;
+    left: 30px;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+}
+
+.return img {
+    align-items: center;
+    width: 110%;
+    height: 100%;
+}
+
+.return:hover {
+    box-shadow: 0 4px 8px rgba(92, 92, 92, 0.852),
+            0 -4px 8px rgba(92, 92, 92, 0.852),
+            4px 0 8px rgba(92, 92, 92, 0.852),
+            -4px 0 8px rgba(92, 92, 92, 0.852);
+}
+
+.title {
+    font-family: "Gluten", sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 4px 8px rgba(61, 61, 61, 0.852),
+        0 -4px 8px rgba(61, 61, 61, 0.852),
+        4px 0 8px rgba(61, 61, 61, 0.852),
+        -4px 0 8px rgba(61, 61, 61, 0.852);
+    margin-top: 40px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.elements .item {
+    position: relative;
+    background-color: white;
+    border: 2px solid white;
+    width: 400px;
+    height: 160px;
+    margin: 15px;
+    border-radius: 20px;
+    transition: box-shadow 0.2s ease;
+}
+
+.elements .item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(120, 120, 120, 0.852),
+        0 -4px 8px rgba(120, 120, 120, 0.852),
+        4px 0 8px rgba(120, 120, 120, 0.852),
+        -4px 0 8px rgba(120, 120, 120, 0.852);
+}
+
+.elements .item p {
+    font-family: "Nunito", sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.elements .item .category {
+    position: absolute;
+    font-family: "Roboto", 'Lucida Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    transform: translate(290px, -120px);
+    border-radius: 3px;
+    width: 74px;
+    height: 24px;
+}
+
+.elements .item .bar {
+    position: absolute;
+    border-radius: 10px;
+    width: 370px;
+    height: 10px;
+    transform: translate(15px, 0px);
+}
+
+.backButton {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    transform: scale(1.5);
+    pointer-events: auto;
+}
+
+.priceTag {
+    font-family: "Roboto", 'Lucida Sans', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(10px, 0px);
+    border-radius: 3px;
+    width: 185px;
+    height: 24px;
+}
+
+.deadlineTag {
+    font-family: "Roboto", 'Lucida Sans', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(205px, -24px);
+    border-radius: 3px;
+    width: 185px;
+    height: 24px;   
+}
+
+.descriptionTag {
+    font-family: "Nunito", sans-serif;
+    margin-left: 15px;
+    transform: translateY(-22.5px);
+}
+
+.linkTag {
+    position: relative;
+    font-family: "Roboto", 'Lucida Sans', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(25px, -15px);
+    border-radius: 25px;
+    width: 350px;
+    height: 100px;  
+    pointer-events: auto;
+}

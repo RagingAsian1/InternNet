@@ -1,0 +1,384 @@
+[
+    {
+        "name": "MITES",
+        "price": "Free",
+        "duration": "Late June - Early August",
+        "description": "MITES (Minority Introduction to Engineering and Science) is a prestigious 6-week summer program hosted by MIT, designed for rising high school seniors who are passionate about engineering and science. The program targets underrepresented students, offering them a unique opportunity to engage in advanced coursework and hands-on projects in STEM. Participants live on MIT's campus, experience college-level academics, and benefit from mentorship by MIT faculty, researchers, and current students. The program also emphasizes community building and personal growth, helping students develop the skills and confidence needed to succeed in STEM disciplines.",
+        "link": {
+            "url": "https://mites.mit.edu/discover-mites/mites-summer/",
+            "innerHTML": "MITES Website"
+        }
+    },
+    {
+        "name": "SAMS",
+        "price": "Not Free",
+        "duration": "Late June - Early August",
+        "description": "SAMS at Carnegie Mellon University is designed for high-achieving high school juniors and seniors from underrepresented backgrounds. The six-week residential program enhances students' knowledge in STEM through a combination of rigorous coursework, hands-on projects, and research opportunities. Students engage in subjects such as mathematics, engineering, and computer science. The program also offers workshops on college preparation, including essay writing, SAT/ACT prep, and financial aid information. Additionally, SAMS provides a supportive and inclusive environment where students receive mentorship from faculty, graduate students, and peers.",
+        "link": {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/sams.html",
+            "innerHTML": "SAMS Website"
+        }
+    },
+    {
+        "name": "COSMOS",
+        "price": "Not Free",
+        "duration": "Early July - Early August",
+        "description": "COSMOS is a renowned summer program held at multiple University of California campuses, including UC Davis, UC Irvine, UC San Diego, and UC Santa Cruz. It targets high school students who exhibit exceptional talent and interest in STEM fields. Participants choose a specific area of study such as robotics, marine biology, computer science, or biomedical engineering. The program blends lectures, labs, and project-based learning, allowing students to apply theoretical knowledge to real-world problems. In addition, COSMOS emphasizes collaboration and teamwork, encouraging students to work together on challenging projects throughout their projects and studies.",
+        "link": {
+            "url": "https://cosmos.ucsc.edu/",
+            "innerHTML": "COSMOS Website"
+        }
+    },
+    {
+        "name": "NASA",
+        "price": "Free",
+        "duration": "Year-Round",
+        "description": "NASA's Internship Program offers students a chance to gain hands-on experience working with NASA professionals on real projects. Available to high school, undergraduate, graduate, and postdoctoral students, these internships provide opportunities in fields like engineering, science, business, and technology. Interns can work during the summer, fall, or spring, contributing to NASA's mission and gaining valuable skills and knowledge. Applicants must typically have a minimum GPA of 3.0 and be U.S. citizens. The program not only offers stipends but also a unique opportunity to network and grow professionally within a leading space and aeronautics organization.",
+        "link": {
+            "url": "https://www.nasa.gov/learning-resources/internship-programs/",
+            "innerHTML": "NASA Website"
+        }
+    },
+    {
+        "name": "SPCS",
+        "price": "Not Free",
+        "duration": "June or July",
+        "description": "Stanford Pre-Collegiate Studies (SPCS) Summer Institutes provide high school students with the opportunity to engage in intensive, college-level study in STEM fields such as artificial intelligence, biotechnology, and mathematical logic, each designed to challenge and inspire. The program includes a rigorous academic curriculum, hands-on projects, and access to Stanford's world-class facilities. Students also participate in workshops, guest lectures, and social activities, fostering a vibrant and collaborative learning community. By living on campus, students experience college life firsthand and gain valuable insights into higher education and STEM careers.",
+        "link": {
+            "url": "https://summerinstitutes.spcs.stanford.edu/#mailinglist",
+            "innerHTML": "SPCS Website"
+        }
+    },
+    {
+        "name": "CTY",
+        "price": "Not Free",
+        "duration": "Mid June - Early August",
+        "description": "The Johns Hopkins Center for Talented Youth (CTY) Summer Programs are designed for academically gifted students to explore challenging STEM subjects such as cryptology, genetics, and robotics, taught by experienced instructors. Students engage in rigorous coursework, hands-on experiments, and collaborative projects, fostering deep understanding and critical thinking. CTY programs are hosted at various college campuses, providing students with a taste of university life. In addition to academics, the program includes recreational activities, social events, and opportunities for personal growth. CTY nurtures young scholars, preparing them for future academic and professional success in STEM.",
+        "link": {
+            "url": "https://cty.jhu.edu/",
+            "innerHTML": "CTY Website"
+        }
+    },
+    {
+        "name": "SEES",
+        "price": "Free",
+        "duration": "June - July",
+        "description": "The SEES program, hosted by the University of Texas at Austin in collaboration with NASA, offers high school students the chance to engage in authentic Earth and space science research. The program combines virtual and on-site experiences, with students initially participating in online coursework and project planning before attending a two-week residential program at UT Austin. During the on-site portion, students work directly with NASA scientists and engineers, conducting research related to current NASA missions. They gain hands-on experience with data analysis, satellite imagery, and fieldwork, depending on their project focus.",
+        "link": {
+            "url": "https://www.csr.utexas.edu/sees-internship/",
+            "innerHTML": "SEES Website"
+        }
+    },
+    {
+        "name": "NYS",
+        "price": "Free",
+        "duration": "Late June - Mid July",
+        "description": "The National Youth Science Camp (NYSCamp) is an esteemed, invitation-only program that brings together some of the brightest STEM-oriented high school seniors from across the United States and select countries. Held in the beautiful Monongahela National Forest in West Virginia, this program offers a unique combination of lectures and hands-on studies led by prominent scientists and engineers. The camp also includes outdoor activities such as hiking, camping, and caving, fostering teamwork, leadership, and communication skills. Beyond the structured educational sessions, participants engage in thoughtful discussions on societal and ethical issues in science, technology, and society.",
+        "link": {
+            "url": "https://www.nysacademy.org/programs/nyscamp/",
+            "innerHTML": "NYS Website"
+        }
+    },
+
+
+
+    {
+        "name": "Stanford Medicine Clinical Internship",
+        "price": "Not Free",
+        "duration": "Mid June / Late July",
+        "description": "The Stanford Medicine Clinical Summer Internship provides high school students with a unique opportunity to delve into the world of clinical medicine at one of the world's top medical schools. The program features intensive clinical skills training, interactive workshops, and lectures delivered by Stanford faculty. Participants engage in patient simulations and shadow practicing physicians, gaining hands-on experience in a real clinical setting and insights into the life of healthcare professionals. Students are immersed in an environment that fosters learning, innovation, and collaboration, inspiring them to pursue careers in healthcare.",
+        "link": {
+            "url": "https://med.stanford.edu/medcsi.html",
+            "innerHTML": "Internship Website"
+        }
+    },
+    {
+        "name": "Johns Hopkins Medicine Academy",
+        "price": "Not Free",
+        "duration": "Early July - Early August",
+        "description": "The Summer Academy at Johns Hopkins University School of Medicine offers a comprehensive introduction to the field of medicine for high schoolers. Over four weeks, participants immerse themselves in a rigorous curriculum that includes lectures by renowned faculty, hands-on laboratory experiences, and clinical rotations in various medical departments. Students learn about medical ethics, patient care, and cutting-edge medical research. The program also includes workshops on college and medical school admissions. Additionally, participants have the opportunity to interact with current medical students and faculty, building connections and gaining mentorship.",
+        "link": {
+            "url": "https://summer.jhu.edu/",
+            "innerHTML": "Academy Website"
+        }
+    },
+    {
+        "name": "PREP",
+        "price": "Free",
+        "duration": "Late June - Mid August",
+        "description": "The UCLA Pre-Medical/Pre-Dental Enrichment Program (PREP) is dedicated to supporting high school students from disadvantaged backgrounds who aspire to careers in medicine or dentistry. This seven-week program provides a comprehensive academic enrichment experience, including advanced coursework in science and math, clinical shadowing opportunities, and professional development workshops. Participants receive personalized mentoring and advising, helping them develop the skills and confidence needed to succeed in their academic and career pursuits through rigorous academic training, hands-on experiences, and a supportive community.",
+        "link": {
+            "url": "https://medschool.ucla.edu/education/pre-med-pre-health-opportunities/pre-med-enrichment-program",
+            "innerHTML": "PREP Website"
+        }
+    },
+    {
+        "name": "National Youth Leadership Forum",
+        "price": "Not Free",
+        "duration": "Late June - Early August",
+        "description": "The National Youth Leadership Forum (NYLF) on Medicine provides high school students with an immersive experience in the field of medicine. Participants engage in a variety of hands-on activities, simulations, and workshops designed to introduce them to medical specialties and healthcare topics. The program includes visits to medical schools, hospitals, and clinics, where students can observe medical professionals in action. Additionally, students participate in realistic simulations, such as a mock medical emergency and a public health outbreak scenario, which challenge them to apply their knowledge and skills in real-world contexts.",
+        "link": {
+            "url": "https://www.envisionexperience.com/explore-our-programs/national-youth-leadership-forum-medicine",
+            "innerHTML": "NYLF Website"
+        }
+    },
+    {
+        "name": "Georgetown Medical Institute",
+        "price": "Not Free",
+        "duration": "July",
+        "description": "The Georgetown University Medical Institute offers high school students a comprehensive introduction to the field of medicine and research at a leading institution. This 3-week program features lectures, hands-on laboratory experiences, and clinical observations, providing students with a well-rounded understanding of the medical profession. Participants explore various medical specialties, learn about medical ethics, and gain insights into patient care and the healthcare system. The program also includes workshops on college and medical school admissions, helping students navigate the application process and prepare for future academic success.",
+        "link": {
+            "url": "https://summer.georgetown.edu/programs/SHS18/medical-academy/",
+            "innerHTML": "Institute Website"
+        }
+    },
+    {
+        "name": "Penn Medicine Summer Program",
+        "price": "Not Free",
+        "duration": "Early July - Early August",
+        "description": "The Penn Medicine Summer Program provides high school students with an immersive introduction to the field of medicine. Over the span of four weeks, participants engage in a rigorous curriculum that includes lectures by Penn faculty, hands-on laboratory experiences, and clinical observations in various medical specialties. Students have the opportunity to shadow physicians, participate in patient simulations, and learn about medical ethics and patient care. Additionally, participants interact with current medical students and faculty, gaining insights into the daily life of healthcare professionals and building valuable connections that will last.",
+        "link": {
+            "url": "https://www.boldsummers.com/summer-programs/penn-medicine-summer-program/",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Tufts University Veterinary Program",
+        "price": "Not Free",
+        "duration": "June, July, or August",
+        "description": "The Adventures in Veterinary Medicine (AVM) program at Tufts University offers high school students a unique opportunity to explore the field of veterinary medicine through hands-on experiences. Participants engage in lectures, laboratory work, and clinical rotations that cover various aspects of animal care and veterinary practice. Students have the opportunity to work with animals, learn about different veterinary specialties, and gain insights into the veterinary school admissions process. The program also includes interactive workshops on topics such as animal behavior, surgery, and diagnostic techniques, providing students with a well-rounded understanding of veterinary medicine.",
+        "link": {
+            "url": "https://vet.tufts.edu/adventures-veterinary-medicine-avm",
+            "innerHTML": "Veterinary Website"
+        }
+    },
+    {
+        "name": "Boston University Honors Program",
+        "price": "Not Free",
+        "duration": "Late June - Early August",
+        "description": "The Boston University High School Honors Program provides an enriching academic experience for high-achieving high school students, allowing them to take college-level courses, including those in medicine and health sciences. Over 6 weeks, students are immersed in a challenging curriculum that includes lectures, laboratory work, and engaging discussions. The program offers a wide range of courses such as Introduction to Medicine, Human Physiology, and Medical Anthropology, enabling students to explore their interests and deepen their understanding from BU's extensive resources, including libraries, labs, and research centers, enhancing their learning experience.",
+        "link": {
+            "url": "https://www.bu.edu/summer/high-school-programs/high-school-honors/",
+            "innerHTML": "Program Website"
+        }
+    },
+
+
+
+    {
+        "name": "Wharton Global Youth Program",
+        "price": "Not Free",
+        "duration": "July",
+        "description": "The Wharton Global Youth Program's Leadership in the Business World (LBW) provides high school students with an intensive introduction to business at one of the world's leading business schools. Over four weeks, students participate in lectures, discussions, and workshops led by Wharton faculty and industry professionals, covering topics such as leadership, entrepreneurship, and global economics. The program includes hands-on activities such as business simulations and team projects, where students develop and present their own business plans. Additionally, participants visit top companies and interact with business leaders, gaining real-world insights and networking opportunities.",
+        "link": {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Stanford Business/Entrepreneurship",
+        "price": "Not Free",
+        "duration": "Late June - Mid July",
+        "description": "The Stanford Pre-Collegiate Summer Institutes' Business and Entrepreneurship program offers high school students an immersive introduction to the world of business and entrepreneurship at Stanford University. Over three weeks, students explore key concepts in business, including marketing, finance, and business ethics through a combination of lectures, case studies, and hands-on projects. Participants work in teams to develop their own business ideas, which they present to a panel of judges at the end of the program. The curriculum is designed to foster creativity, critical thinking, and collaboration, providing students with the skills needed to succeed in the business world.",
+        "link": {
+            "url": "https://summerinstitutes.spcs.stanford.edu/",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Harvard Business & Economics",
+        "price": "Not Free",
+        "duration": "June, July, or August",
+        "description": "The Harvard Pre-College Program's Business and Economics course provides high school students with an intensive introduction to the fundamentals of business and economics at Harvard University. Over two weeks, students engage in a rigorous curriculum that includes lectures, discussions, and hands-on projects. The course covers key topics such as microeconomics, macroeconomics, financial markets, and business strategy, providing students with a comprehensive understanding of the economic principles that drive business decisions. Participants work on group projects, conduct market research, and develop business plans, enhancing their analytical and problem-solving skills.",
+        "link": {
+            "url": "https://summer.harvard.edu/high-school-programs/pre-college-program/#outcomes",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "MIT Launch Summer Program",
+        "price": "Not Free",
+        "duration": "Late June - Late July",
+        "description": "The MIT Launch Summer Program offers students an unparalleled opportunity to delve into entrepreneurship at one of the most prestigious technological institutes. Over 4 weeks, participants learn about the entrepreneurial process, from ideation to execution, through a combination of lectures, workshops, and hands-on projects. The curriculum covers essential topics such as market research, product development, business planning, and pitching. Students work in teams to develop their own startups, receiving mentorship from MIT faculty, alumni, and successful entrepreneurs. The program culminates in a pitch competition, where teams present their ventures to a panel.",
+        "link": {
+            "url": "https://www.launchx.com/programs",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "NYU Business Intensive",
+        "price": "Not Free",
+        "duration": "Early July - Mid August",
+        "description": "The NYU Precollege Program's Business Intensive provides high school students with a deep dive into the world of business at New York University. Over six weeks, participants engage in a rigorous curriculum that covers key topics such as marketing, finance, entrepreneurship, and management. The program includes lectures, case studies, and hands-on projects, allowing students to apply theoretical knowledge to practical business challenges. Participants also visit local businesses and interact with industry professionals, gaining real-world insights and networking opportunities. Additionally, the program offers workshops on college preparation and career planning.",
+        "link": {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/business.html",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Columbia Business & Finance",
+        "price": "Not Free",
+        "duration": "July or August",
+        "description": "The Columbia University Summer Immersion program offers high school students an intensive introduction to business and finance. Over three weeks, participants explore key concepts in business, economics, and finance through a combination of lectures, seminars, and hands-on projects. The curriculum covers topics such as corporate finance, investment strategies, and business ethics, providing students with a solid foundation in business principles. Participants work on group projects, analyze case studies, and develop their own business plans, enhancing their analytical and problem-solving skills. The program also includes guest lectures by experts.",
+        "link": {
+            "url": "https://precollege.sps.columbia.edu/programs/explore-courses?interests=326&term=All&format=All&status=All&related_program=All",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Future Business Leaders of America",
+        "price": "Free",
+        "duration": "Year-Round",
+        "description": "Future Business Leaders of America (FBLA) organizes a series of leadership conferences aimed at high school students who are interested in business and leadership. These conferences feature a range of activities, including competitive events, workshops, keynote speakers, and networking opportunities. Participants can compete in events that test their knowledge and skills in various business disciplines, attend multiple sessions on leadership development, and connect with peers and professionals from across the country. The conferences provide a unique platform for students to showcase their talents and gain insights into the business world.",
+        "link": {
+            "url": "https://www.fbla.org/",
+            "innerHTML": "FBLA Website"
+        }
+    },
+    {
+        "name": "NSLC on Business/Entrepreneurship",
+        "price": "Free",
+        "duration": "Summer",
+        "description": "The NSLC on Business & Entrepreneurship provides high school students with a comprehensive introduction to the principles of business, leadership, and innovation. Hosted at various prestigious universities, this program combines interactive lectures, hands-on workshops, and real-world simulations to help students learn and understand the complexities of the business world. Participants work in teams to develop business plans, pitch ideas to investors, and learn from successful entrepreneurs and business executives. The program also includes leadership development sessions, college preparation workshops, and networking opportunities.",
+        "link": {
+            "url": "https://www.nslcleaders.org/youth-leadership-programs/business-entrepreneurship/",
+            "innerHTML": "NSLC Website"
+        }
+    },
+
+
+
+    {
+        "name": "NYU High School Law Institute",
+        "price": "Not Free",
+        "duration": "Sep. - Nov. or Jan. - Feb.",
+        "description": "The NYU High School Law Institute offers an immersive experience for students passionate about law-fields. Participants engage in a rigorous curriculum that covers the fundamental areas of law, including constitutional law, criminal law, and civil rights, alongside developing essential skills in legal writing and analysis. Throughout the program, students participate in moot court sessions and mock trials, providing them with real-world practical experience in legal proceedings and advocacy. This unique blend of academic rigor and practical application not only enhances their understanding of the legal system but also prepares them for future studies in law.",
+        "link": {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/high-school-law-institute.html",
+            "innerHTML": "Institute Website"
+        }
+    },
+    {
+        "name": "Teach Democracy",
+        "price": "Free",
+        "duration": "April - August",
+        "description": "Offered by the Constitutional Rights Foundation, the Expanding Horizons Institute is a multifaceted program that helps students prepare for college while fostering an understanding of the legal profession. In addition to offering SAT preparation and pre-college counseling, the program immerses students in real-world legal issues, encouraging them to think critically about civic responsibility and justice. Participants have the opportunity to connect with legal professionals who serve as mentors, guiding them through the complexities of a legal career. This supportive environment not only equips students with essential knowledge but also instills confidence as they explore their future paths.",
+        "link": {
+            "url": "https://teachdemocracy.org/programs",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "Congresswoman McBath Internship",
+        "price": "Free",
+        "duration": "Year-Round",
+        "description": "Interning with Congresswoman Lucy McBath offers students a unique glimpse into the workings of government and public policy. Participants have the opportunity to engage directly with legislative processes, attending hearings and contributing to research efforts that inform policy decisions. The program provides both full-time and part-time internship options in Washington, D.C., allowing students to tailor their experience. Interns gain valuable skills in research, writing, and communication, all while being compensated. This internship is ideal for students considering a future in law, politics, or public service, as it provides hands-on experience in an impactful environment.",
+        "link": {
+            "url": "https://mcbath.house.gov/internships",
+            "innerHTML": "Internship Website"
+        }
+    },
+    {
+        "name": "National Law Leadership Forum",
+        "price": "Not Free",
+        "duration": "Summer",
+        "description": "The National Youth Leadership Forum: Law & CSI is an engaging program that introduces high school students to the fields of law and criminal science investigation. Participants have the chance to observe real court proceedings and engage in mock trials, enhancing their learning and understanding of courtroom dynamics and legal procedures. Throughout the six-day program, students interact with legal professionals, exploring their interests and learning about various careers within the legal field. While tuition is required, the immersive nature of this program makes it a valuable experience for students considering a future career in law or criminal justice.",
+        "link": {
+            "url": "https://www.envisionexperience.com/explore-our-programs/national-youth-leadership-forum-law-and-csi",
+            "innerHTML": "Program Website"
+        }
+    },
+    {
+        "name": "U.S. Senate Page Program",
+        "price": "Free",
+        "duration": "Spring or Fall",
+        "description": "The U.S. Senate Page Program is designed for high school students who are interested in government and politics. Pages work during the legislative session, performing tasks such as delivering messages, running errands, and assisting Senate staff. The program offers a unique opportunity to observe the legislative process in action, attend debates, and interact with Senators and their staff. Participants not only gain valuable work experience but also develop a deeper understanding of the American political system. Pages are selected based on academic achievement, extracurricular involvement, and recommendations, making it a competitive but rewarding opportunity.",
+        "link": {
+            "url": "https://pageprogram.senate.gov/apply/",
+            "innerHTML": "Program Website"
+        }
+    },
+
+
+
+    {
+        "name": "RSI",
+        "price": "Free",
+        "duration": "Late June - Early August",
+        "description": "The MIT Research Science Institute (RSI) is a prestigious summer program for exceptional high school students passionate about science, engineering, and mathematics. Held at MIT, RSI selects around 80 students globally through a highly competitive process. The program includes a one-week theoretical 'boot camp' with advanced lectures, followed by a 5-week intensive research phase where students work on individual projects under the mentorship of scientists and engineers. This unique opportunity allows participants to engage in cutting-edge research, develop a deeper understanding of their chosen fields, and gain invaluable professional development experience.",
+        "link": {
+            "url": "https://www.cee.org/programs/research-science-institute",
+            "innerHTML": "RSI Website"
+        }
+    },
+    {
+        "name": "RISE",
+        "price": "Free",
+        "duration": "Late June - Early August",
+        "description": "The Boston University Research in Science & Engineering (RISE) program is a prestigious 6-week summer program designed for rising high school seniors interested in STEM fields. Participants work closely with BU faculty on cutting-edge research projects in university laboratories, gaining valuable experience and skills. The program offers two tracks: the Internship track, focusing on hands-on research and data analysis, and the Practicum track, emphasizing computational and theoretical research. Students also attend workshops and seminars to enhance their academic development. The program concludes with a research symposium where participants present their findings.",
+        "link": {
+            "url": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/",
+            "innerHTML": "RISE Website"
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    },
+    {
+        "name": "",
+        "price": "",
+        "duration": "",
+        "description": "",
+        "link": {
+            "url": "",
+            "innerHTML": ""
+        }
+    }
+]
